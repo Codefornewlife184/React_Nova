@@ -307,13 +307,13 @@ function Header() {
                           >
                             {navLabels.usefulLinks}
                           </NavDropdown.Item>
-                          <NavDropdown.Item
+                          {/*<NavDropdown.Item
                             as={Link}
                             to={getLocalizedPath("vehicles", language)}
                             onClick={handleClick}
                           >
                             {navLabels.vehicles}
-                          </NavDropdown.Item>
+                          </NavDropdown.Item>*/}
                         </NavDropdown>
                         <Nav.Link
                           as={Link}

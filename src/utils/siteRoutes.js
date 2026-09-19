@@ -17,21 +17,21 @@ export const localizedPaths = {
 export const routeMeta = {
   home: {
     tr: {
-      title: "Nova Sürücü Kursu | Bursa Sürücü Kursu ve Ehliyet Eğitimi",
+      title: "Özel Nova Sürücü Kursu | Arnavutköy Sürücü Kursu ve Ehliyet Eğitimi",
       description:
-        "Nova Sürücü Kursu ile A1, A2, B manuel ve B otomatik ehliyet eğitimleri hakkında bilgi alın. Kayıt, sınav süreci ve faydalı bağlantılar tek yerde.",
+        "Özel Nova Sürücü Kursu ile A1, A2, B manuel ve B otomatik ehliyet eğitimleri hakkında bilgi alın. Kayıt, sınav süreci ve faydalı bağlantılar tek yerde.",
     },
     en: {
-      title: "Nova Driving School | Driving Courses and License Training in Bursa",
+      title: "Nova Driving School | Driving Courses and License Training in Arnavutköy",
       description:
         "Explore A1, A2, B manual and B automatic license training at Nova Driving School. Registration, exam process and useful links are all in one place.",
     },
   },
   about: {
     tr: {
-      title: "Hakkımızda | Nova Sürücü Kursu",
+      title: "Hakkımızda | Özel Nova Sürücü Kursu",
       description:
-        "Nova Sürücü Kursu hakkında bilgi alın. Misyonumuz, vizyonumuz ve sürücü eğitimine yaklaşımımızı inceleyin.",
+        "Özel Nova Sürücü Kursu hakkında bilgi alın. Misyonumuz, vizyonumuz ve sürücü eğitimine yaklaşımımızı inceleyin.",
     },
     en: {
       title: "About Us | Nova Driving School",
@@ -41,9 +41,9 @@ export const routeMeta = {
   },
   contact: {
     tr: {
-      title: "İletişim | Nova Sürücü Kursu",
+      title: "İletişim | Özel Nova Sürücü Kursu",
       description:
-        "Nova Sürücü Kursu iletişim bilgileri, adres, telefon, WhatsApp ve iletişim formu üzerinden bize kolayca ulaşın.",
+        "Özel Nova Sürücü Kursu iletişim bilgileri, adres, telefon, WhatsApp ve iletişim formu üzerinden bize kolayca ulaşın.",
     },
     en: {
       title: "Contact | Nova Driving School",
@@ -53,7 +53,7 @@ export const routeMeta = {
   },
   product: {
     tr: {
-      title: "Ehliyet Sınıflarımız | Nova Sürücü Kursu",
+      title: "Ehliyet Sınıflarımız | Özel Nova Sürücü Kursu",
       description:
         "A1, A2, B manuel ve B otomatik ehliyet sınıflarımızı karşılaştırın. Size uygun sürücü belgesi sınıfını kolayca seçin.",
     },
@@ -65,7 +65,7 @@ export const routeMeta = {
   },
   registration: {
     tr: {
-      title: "Kayıt İçin Gerekli Belgeler | Nova Sürücü Kursu",
+      title: "Kayıt İçin Gerekli Belgeler | Özel Nova Sürücü Kursu",
       description:
         "Sürücü kursu kaydı için gereken belgeleri, sağlık raporu ödeme bilgisini ve başvuru sürecini adım adım inceleyin.",
     },
@@ -77,7 +77,7 @@ export const routeMeta = {
   },
   faq: {
     tr: {
-      title: "Sıkça Sorulan Sorular | Nova Sürücü Kursu",
+      title: "Sıkça Sorulan Sorular | Özel Nova Sürücü Kursu",
       description:
         "Ehliyet kaydı, dersler, sınav süreci ve belge şartları hakkında en sık sorulan soruların yanıtlarını bulun.",
     },
@@ -89,7 +89,7 @@ export const routeMeta = {
   },
   usefulLinks: {
     tr: {
-      title: "Faydalı Linkler | Nova Sürücü Kursu",
+      title: "Faydalı Linkler | Özel Nova Sürücü Kursu",
       description:
         "E-Devlet, ödeme sistemi, ehliyet randevu ve resmi bilgilendirme bağlantılarına tek sayfadan ulaşın.",
     },
@@ -101,7 +101,7 @@ export const routeMeta = {
   },
   vehicles: {
     tr: {
-      title: "Araçlarımız | Nova Sürücü Kursu",
+      title: "Araçlarımız | Özel Nova Sürücü Kursu",
       description:
         "A1, A2, B manuel ve B otomatik eğitim araçlarımızı inceleyin. Modern ve sınıfa uygun filomuzu keşfedin.",
     },
@@ -113,7 +113,7 @@ export const routeMeta = {
   },
   a1: {
     tr: {
-      title: "A1 Ehliyet Rehberi | Nova Sürücü Kursu",
+      title: "A1 Ehliyet Rehberi | Özel Nova Sürücü Kursu",
       description:
         "A1 ehliyet yaş şartı, sınav aşamaları, gerekli belgeler ve kullanım kapsamını ayrıntılı rehberimizde inceleyin.",
     },
@@ -125,7 +125,7 @@ export const routeMeta = {
   },
   a2: {
     tr: {
-      title: "A2 Otomatik Motosiklet Ehliyeti | Nova Sürücü Kursu",
+      title: "A2 Otomatik Motosiklet Ehliyeti | Özel Nova Sürücü Kursu",
       description:
         "A2 Otomatik ehliyet yaş şartı, kullanım kapsamı, otomatik kısıtlaması, başvuru şartları, sınav süreci ve gerekli belgeler hakkında detaylı bilgi alın.",
     },
@@ -137,7 +137,7 @@ export const routeMeta = {
   },
   a2Manual: {
     tr: {
-      title: "A2 Manuel Motosiklet Ehliyeti | Nova Sürücü Kursu",
+      title: "A2 Manuel Motosiklet Ehliyeti | Özel Nova Sürücü Kursu",
       description:
         "A2 Manuel ehliyet ile debriyaj ve vites kısıtlaması olmadan 35 kW'a kadar tüm A2 motosikletlerini (manuel + otomatik) kullanın. Şartlar, belgeler ve sınav süreci hakkında detaylı bilgi alın.",
     },
@@ -149,7 +149,7 @@ export const routeMeta = {
   },
   bManual: {
     tr: {
-      title: "B Manuel Ehliyet Rehberi | Nova Sürücü Kursu",
+      title: "B Manuel Ehliyet Rehberi | Özel Nova Sürücü Kursu",
       description:
         "B manuel ehliyetin kapsamını, başvuru şartlarını, sınav sürecini ve belge listesini bu sayfada inceleyin.",
     },
@@ -161,7 +161,7 @@ export const routeMeta = {
   },
   bAutomatic: {
     tr: {
-      title: "B Otomatik Ehliyet Rehberi | Nova Sürücü Kursu",
+      title: "B Otomatik Ehliyet Rehberi | Özel Nova Sürücü Kursu",
       description:
         "B otomatik ehliyetin kullanım kapsamı, belge şartları ve sınav süreci hakkında güncel bilgi alın.",
     },
